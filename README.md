@@ -1,1 +1,1 @@
-# Programming_Contests
+# GFG POTD
