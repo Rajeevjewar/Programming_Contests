@@ -47,6 +47,7 @@ public class XORLinkedList {
         return ans;
     }
     static Node XOR(Node a, Node b) {
-        return (Node)((a == null ? 0 : a.hashCode()) ^ (b == null ? 0 : b.hashCode()));
+//        return (Node)((a == null ? 0 : a.hashCode()) ^ (b == null ? 0 : b.hashCode()));
+         return null;
     }
 }
